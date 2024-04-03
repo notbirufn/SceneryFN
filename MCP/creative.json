@@ -1,20 +1,25 @@
-{
-    "_id": null,
-    "created": "0001-01-01T00:00:00.000Z",
-    "updated": "0001-01-01T00:00:00.000Z",
-    "rvn": 1,
-    "wipeNumber": 11,
-    "accountId": "Player",
-    "profileId": "creative",
-    "version": "SCENERY",
-    "stats": {
+[
+  {
+    "changeType": "fullProfileUpdate",
+    "profile": {
+      "_id": null,
+      "created": "0001-01-01T00:00:00Z",
+      "updated": "0001-01-01T00:00:00Z",
+      "rvn": 1,
+      "wipeNumber": 11,
+      "accountId": "Player",
+      "profileId": "creative",
+      "version": "SCENERY",
+      "stats": {
         "attributes": {
-            "max_island_plots": 50,
-            "permissions": [
-                "fortnite:creative:beta:creatorportal"
-            ]
+          "max_island_plots": 50,
+          "permissions": [
+            "fortnite:creative:beta:creatorportal"
+          ]
         }
-    },
-    "commandRevision": 0,
-    "items": {}
-}
+      },
+      "commandRevision": 0,
+      "items": {}
+    }
+  }
+]
