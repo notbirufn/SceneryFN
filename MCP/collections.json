@@ -1,0 +1,20 @@
+[
+  {
+    "changeType": "fullProfileUpdate",
+    "profile": {
+      "_id": null,
+      "created": "0001-01-01T00:00:00Z",
+      "updated": "0001-01-01T00:00:00Z",
+      "rvn": 1,
+      "wipeNumber": 3,
+      "accountId": "Player",
+      "profileId": "collections",
+      "version": "SCENERY",
+      "stats": {
+        "attributes": {}
+      },
+      "commandRevision": 0,
+      "items": {}
+    }
+  }
+]
