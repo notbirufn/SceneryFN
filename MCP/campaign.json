@@ -1,0 +1,194 @@
+{
+    "_id": null,
+    "created": "0001-01-01T00:00:00.000Z",
+    "updated": "0001-01-01T00:00:00.000Z",
+    "rvn": 1,
+    "wipeNumber": 9,
+    "accountId": "Player",
+    "profileId": "campaign",
+    "version": "SCENERY",
+    "stats": {
+        "attributes": {
+            "mission_alert_redemption_record": {
+                "lastClaimedGuidPerTheater": null,
+                "lastClaimTimesMap": null
+            },
+            "loadouts": [
+                "CosmeticLocker:CosmeticLocker_StW"
+            ],
+            "level": 1,
+            "last_applied_loadout": null
+        }
+    },
+    "commandRevision": 0,
+    "items": {
+        "CosmeticLocker:CosmeticLocker_StW": {
+            "templateId": "CosmeticLocker:CosmeticLocker_StW",
+            "attributes": {
+                "locker_slots_data": {
+                    "slots": {
+                        "Character": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "Hat": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "Backpack": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "Pickaxe": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "Dance": {
+                            "items": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            "activeVariants": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        },
+                        "ItemWrap": {
+                            "items": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            "activeVariants": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        },
+                        "MusicPack": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "LoadingScreen": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "BattleBus": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "VehicleDecoration": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "CallingCard": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "MapMarker": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "VictoryPose": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "ConsumableEmote": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        },
+                        "Charm": {
+                            "items": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ],
+                            "activeVariants": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        },
+                        "PetSkin": {
+                            "items": [
+                                null
+                            ],
+                            "activeVariants": [
+                                null
+                            ]
+                        }
+                    }
+                }
+            },
+            "quantity": 1
+        }
+    }
+}
